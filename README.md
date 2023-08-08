@@ -2,10 +2,10 @@
 
 Pre-requisites:
 --------
-    - Install Git
-    - Install Maven
-    - Install Docker
-    - EKS Cluster
+    -- Install Git
+    -- Install Maven
+    -- Install Docker
+    -- EKS Cluster
     
 Clone code from github:
 -------
