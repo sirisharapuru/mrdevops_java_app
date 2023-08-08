@@ -45,6 +45,9 @@ Now Goto Load balancer and check whether service comes Inservice or not, If it c
     
 ![2](https://user-images.githubusercontent.com/63221837/82123471-44f5f300-97b7-11ea-9d10-438cf9cc98a0.png)
 
+
+----****----
+
 Now we can cleanup by using below commands:
 --------
     kubectl delete deploy kubernetes-configmap-reload
